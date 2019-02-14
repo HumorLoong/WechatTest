@@ -1,0 +1,2 @@
+<button class="name" bindtap="getName"> {{name}}</button>
+<text class='name'>{{num}} </text>

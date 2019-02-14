@@ -1,0 +1,4 @@
+.name{
+  background: #422342;
+  margin: 45rpx;
+}
